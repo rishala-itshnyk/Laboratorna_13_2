@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_13_2", "Laboratorna_13_2\Laboratorna_13_2.csproj", "{032502D2-2B0A-45DD-A519-0C71BF9E318C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_13_2.Tests", "Laboratorna_13_2.Tests\Laboratorna_13_2.Tests.csproj", "{5CE3953F-F93F-49C6-B35F-3E74C4437385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{032502D2-2B0A-45DD-A519-0C71BF9E318C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032502D2-2B0A-45DD-A519-0C71BF9E318C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032502D2-2B0A-45DD-A519-0C71BF9E318C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032502D2-2B0A-45DD-A519-0C71BF9E318C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE3953F-F93F-49C6-B35F-3E74C4437385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE3953F-F93F-49C6-B35F-3E74C4437385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE3953F-F93F-49C6-B35F-3E74C4437385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE3953F-F93F-49C6-B35F-3E74C4437385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
